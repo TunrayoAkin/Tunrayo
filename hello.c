@@ -6,5 +6,13 @@ int main()
     return 0;
 }
 
+{
+    printf("Fare thee well!\n");
+    return 0;
+}
 
+{
+    printf("Quicker version!\n");
+    return 0;
+}
 
